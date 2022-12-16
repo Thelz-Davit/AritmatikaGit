@@ -38,7 +38,7 @@ public class Aritmatika {
     
     //Operasi Penjumlahan
     public double Penjumlahan(){
-        return 0;
+        return bilanganA+bilanganB;
     }
     //Operasi Pengurangan
     public double Pengurangan(){
